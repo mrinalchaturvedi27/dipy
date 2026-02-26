@@ -98,7 +98,7 @@ print("\nCoarse clustering:", len(coarse_clusters), "clusters")
 print("Fine clustering:", len(fine_clusters), "clusters")
 
 ###############################################################################
-# QuickBundlesX builds a hierarchy, which often produces more meaningful
+# QuickBundlesX builds a hierarchy :footcite:p:`Garyfallidis2016`, which often produces more meaningful
 # segmentations than the flat QuickBundles approach, especially for complex
 # tractography data with branching structures.
 #
